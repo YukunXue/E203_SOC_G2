@@ -20,7 +20,8 @@ E203有俩块总线曲线区域
 
 
 
-目前问题比较像的是![image-20220918154022774](C:\Users\XueYK\AppData\Roaming\Typora\typora-user-images\image-20220918154022774.png)
+目前问题比较像的是
+![image-20220918154022774](https://user-images.githubusercontent.com/79365890/192093234-c434a376-9251-4f2f-a522-ab7ce1183db2.png)
 
 https://www.rvmcu.com/community-topic-id-743.html
 
