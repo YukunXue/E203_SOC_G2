@@ -3,6 +3,7 @@ We run the E203 based on Genesys2 ,and add some additional IP to develop a power
 
 u can get the mcs file in sys.zip
 
-now(2022.9.26) the rtl soc is this (pic file) 
+now(2022.9.26) the rtl soc is in pic file
 
+This project will continue to update and welcome to join us
 
