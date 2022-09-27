@@ -1,0 +1,54 @@
+本文档用于说明E203在genesys2板子上引脚配置
+
+ 
+
+## 1. Leds 
+
+​	GPIOA0 LED0
+
+​	GPIOA1 LED1
+
+​	GPIOA2 LED2
+
+​	GPIOA3 LED3
+
+​	GPIOA4 LED4
+
+​	GPIOA5 LED5
+
+
+## 2.SW
+
+​	 GPIOA22 SW0
+
+​	GPIOA23 SW1
+
+​	GPIOA24 SW2
+
+​	GPIOA25 SW3
+
+​	GPIOA26 SW4
+
+​	GPIOA27 SW5
+
+​	GPIOA28 SW6
+
+
+
+## 3.Button
+
+​	GPIOA6  btnd
+
+​	GPIOA7  btnl
+
+​	GPIOA20 btnr
+
+​	GPIOA21 btnu
+
+
+
+## 4.UART
+
+​	GPIOA16 UART0 RX
+
+​	GPIOA17 UART0 TX
