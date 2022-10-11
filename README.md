@@ -9,4 +9,7 @@ now(2022.9.26) the rtl soc is in pic file
 
 This project will continue to update and welcome to join us
 
+9月
+axi 问题已解决
+
 整个工程文件会在完善和代码规范后上传~
